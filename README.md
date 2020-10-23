@@ -7,7 +7,9 @@
 
 - 📄 Que tal construir uma aplicação completa utilizando Angular e Firebase?
 <br>
-[![Foo](https://cdn.shopify.com/s/files/1/0155/7645/products/p_8b0dbdac-77ec-4194-afd9-8bdbd1ac7d42_large.jpg)](https://www.casadocodigo.com.br/products/livro-angular-firebase?_pos=1&_sid=7844744cc&_ss=r)
+  
+[![Livro](https://cdn.shopify.com/s/files/1/0155/7645/products/p_8b0dbdac-77ec-4194-afd9-8bdbd1ac7d42_large.jpg)](https://www.casadocodigo.com.br/products/livro-angular-firebase?_pos=1&_sid=7844744cc&_ss=r "")
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
