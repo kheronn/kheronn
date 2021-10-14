@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, meu nome é Kheronn Khennedy Machado</h1>
-<h3 align="center">Sou professor da rede pública estadual do Paraná e desenvolvedor curioso.</h3>
+<h3 align="center">Sou professor da rede pública estadual do Paraná e desenvolvedor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kheronn&label=Profile%20views&color=0e75b6&style=flat" alt="kheronn" /> </p>
 
