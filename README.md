@@ -8,7 +8,7 @@
 - 📄 Que tal construir uma aplicação completa utilizando Angular e Firebase?
 <br>
   
-[![Livro](https://cdn.shopify.com/s/files/1/0155/7645/products/Frente-Angular-e-firebase_large.jpg?v=1616795966)](https://www.casadocodigo.com.br/products/livro-angular-firebase?_pos=1&_sid=7844744cc&_ss=r "")
+[![Livro](https://cdn.shopify.com/s/files/1/0155/7645/products/Angular11eFirebase_Amazon_large.jpg?v=1631300984)](https://www.casadocodigo.com.br/products/livro-angular-firebase?_pos=1&_sid=7844744cc&_ss=r "")
 
 
 ### Blogs posts
