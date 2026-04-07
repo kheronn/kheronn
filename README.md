@@ -12,14 +12,12 @@ Sou um desenvolvedor e professor apaixonado por conectar educação e tecnologia
   Doutor no Ensino de Ciências e Tecnologia pela Universidade Tecnológica Federal do Paraná (UTFPR), mestre em Informática pela Universidade Federal do Paraná (UFPR).
 </p>
 <p>
-  Atuo como professor na rede pública do Paraná e, atualmente como assessor pedagógico na função de embaixador de Programação do núcleo regional de educação de Wenceslau Braz,  em paralelo, desenvolvo projetos full-stack, com foco especial em <strong>Javascript, TypeScript e Python</strong>.Também sou pesquisador na área de formação de professores na Educação Básica com interesse particular em Pensamento Computacional e o uso de IA no ensino. 
+  Atuo como professor na rede pública do Paraná e, atualmente como assessor pedagógico na função de embaixador de Programação, Inglês e Ganahndo o Mundo do núcleo regional de educação de Wenceslau Braz,  em paralelo, desenvolvo projetos full-stack, com foco especial em <strong>Javascript, TypeScript e Python</strong>.
+  Também sou pesquisador na área de formação de professores na Educação Básica com interesse particular em Pensamento Computacional e o uso de IA no ensino. 
 </p>
 
 
-
-
 <div align="center">
-
 Minha missão é criar ferramentas que facilitem o aprendizado e resolvam problemas do mundo real. </div>
 
 <h3>Conecte-se comigo:</h3>
